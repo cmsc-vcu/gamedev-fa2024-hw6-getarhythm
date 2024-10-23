@@ -6,6 +6,36 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Gio Scenes/Title Screen.unity
+    guid: 0f84b44b5c9d45044bc4bf1833a2802d
+  - enabled: 1
+    path: Assets/Gio Scenes/Level 1 Keep it up.unity
+    guid: a2167f4cf528cd4419d8560274d45a1e
+  - enabled: 1
+    path: Assets/Gio Scenes/Level 2 gama.unity
+    guid: ad8458616700dd140a956ae614a12d6c
+  - enabled: 1
+    path: Assets/Gio Scenes/Level 3 brain Power.unity
+    guid: 677608c2a8022d9408383c442ea37197
+  - enabled: 1
+    path: Assets/Gio Scenes/Level 4 breaching bios.unity
+    guid: 7c4994d37d2f40b41841cc7f2a8ef780
+  - enabled: 1
+    path: Assets/Gio Scenes/Level 5 Sdorica.unity
+    guid: 3b92ce84ad5c29b4ab34d4486066f241
+  - enabled: 1
+    path: Assets/Gio Scenes/Level 6 fujin rumble.unity
+    guid: f72f21d0e8214b14ba14ec006d71fabb
+  - enabled: 1
+    path: Assets/Gio Scenes/Level 7 end of moonlight.unity
+    guid: cbae2bcf39a114a49821eae9ecc8f90d
+  - enabled: 1
+    path: Assets/Gio Scenes/Level 8 phantom razor.unity
+    guid: 42a99abc8175a4b458c5e4fea28a2f84
+  - enabled: 1
+    path: Assets/Gio Scenes/Level 9 Standbye.unity
+    guid: f0ea30d3073f5f845b98d866e849ff2a
+  - enabled: 1
+    path: Assets/Gio Scenes/Level 10 Dev sphere.unity
+    guid: 6cd4191b631c9b44e95da935cc2995f4
   m_configObjects: {}
