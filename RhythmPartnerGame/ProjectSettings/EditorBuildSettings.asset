@@ -9,6 +9,36 @@ EditorBuildSettings:
     path: Assets/Gio Scenes/Title Screen.unity
     guid: 0f84b44b5c9d45044bc4bf1833a2802d
   - enabled: 1
+    path: Assets/Gio Scenes/Level 1 select.unity
+    guid: 181c27cea48a21a4480856fbd4d922a2
+  - enabled: 1
+    path: Assets/Gio Scenes/Level 2 select.unity
+    guid: 88beac1584de0c74d9619b9b0ff65b44
+  - enabled: 1
+    path: Assets/Gio Scenes/Level 3 select.unity
+    guid: 54b12b2662e835e4d974d7325247030c
+  - enabled: 1
+    path: Assets/Gio Scenes/Level 4 select.unity
+    guid: d6875500cc98e2f4490d61265eba3318
+  - enabled: 1
+    path: Assets/Gio Scenes/Level 5 Select.unity
+    guid: 36be812d84159244f9fc87b9e57324d9
+  - enabled: 1
+    path: Assets/Gio Scenes/Level 6 select.unity
+    guid: 3871de5d8f1ba3c4ea0a166e32b44c90
+  - enabled: 1
+    path: Assets/Gio Scenes/Level 7 select.unity
+    guid: 0dad19a6f2ad5a943ade3a56af37d3b6
+  - enabled: 1
+    path: Assets/Gio Scenes/Level 8 select.unity
+    guid: 234da33543de9d44ea8064867363f9eb
+  - enabled: 1
+    path: Assets/Gio Scenes/Level 9 select.unity
+    guid: d9770ba66015c7f4589e148e4de6a53e
+  - enabled: 1
+    path: Assets/Gio Scenes/Level 10 Select.unity
+    guid: ba4308f59932dbb4795ee54020116f32
+  - enabled: 1
     path: Assets/Gio Scenes/Level 1 Keep it up.unity
     guid: a2167f4cf528cd4419d8560274d45a1e
   - enabled: 1
@@ -33,7 +63,7 @@ EditorBuildSettings:
     path: Assets/Gio Scenes/Level 8 phantom razor.unity
     guid: 42a99abc8175a4b458c5e4fea28a2f84
   - enabled: 1
-    path: Assets/Gio Scenes/Level 9 Standbye.unity
+    path: Assets/Gio Scenes/Level 9 AStandbye.unity
     guid: f0ea30d3073f5f845b98d866e849ff2a
   - enabled: 1
     path: Assets/Gio Scenes/Level 10 Dev sphere.unity
