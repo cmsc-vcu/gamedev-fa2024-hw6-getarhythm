@@ -1,24 +1,22 @@
-# Elevator Wipeout - Sidecars and PBRs - Fall 2024
+# Rock The Beat - Get a Rhythm - Fall 2024
 
-Elevator Wipeout is a save-the-world game where the player does all they can to prevent bad guys from destroying a space elevator.  If the bad guys win, the earth
-is destroyed in a spectacular, slow-motion extravaganza.
+Rock the Beat will challenge your rhythm and reflexes in this mulit-level song-based rhythm game.
 
 ## Authors
 
-- John Leonard (jdleonard@vcu.edu)
-- Jason Bennett (jebennett@vcu.edu)
+- Rawley Rudel (rudelra@vcu.edu)
+- Giovanni Cassella (casellagi@vcu.edu)
 
 ## Game Description
 
-Provide more details of the game.  Discuss any unique game play features.  Why is
-this game different from others?  What is the goal for playing?
+This is a rhythm based game in which users have to use the control keys a,s,d,and f to destory notes in time with a song. Players will be scored based on their ability to destory the keys and the timing in which they hit the keys. 
 
 ## Important Links
 
-- Game URL: < ... >
-- GITHUB URL: < ... >
-- Gameplay Video URL: < ... >
-- Google Doc writeup: < ... >
+- Game URL:  https://play.unity.com/en/games/3d06d74a-a54a-4b3b-9ed7-a407434e6c1a/rock-the-beat
+- GITHUB URL: https://github.com/cmsc-vcu/gamedev-fa2024-hw6-getarhythm
+- Gameplay Video URL: https://www.youtube.com/watch?v=yp-t8G-nmbc
+- Google Doc writeup: https://docs.google.com/document/d/17_mV-MAvaNXExMs8OUY6DBgOZjrheOCzkDWgGsIBBWo/edit?tab=t.0#heading=h.z6ne0og04bp5
 
 ## Files in the repository
 
